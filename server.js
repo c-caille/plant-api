@@ -15,7 +15,8 @@ const plants = {
     'invasive': {
         'speciesName' : 'Invasive',
         'habitat': 'disturbed',
-        'height' : 1
+        'height' : 1, 
+        
       
     },
 
@@ -23,6 +24,7 @@ const plants = {
         'speciesName': 'Common Camus',
         'habitat': 'Meadow',
         'height': 2,
+        'plantImage': 'https://www.gardeningknowhow.com/wp-content/uploads/2013/09/Camassia-quamash.jpg',
     }
 }
 
